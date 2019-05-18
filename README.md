@@ -1,6 +1,6 @@
-# isaac-powell-portfolio
+# Nuxt / Tailwind (1.0) / PostCSS Starter
 
-> My dazzling Nuxt.js project
+> A starting point for Tailwind 1.0 projects in Nuxt, with a bunch of stuff pre-configured, such as postcss, preset-env,
 
 ## Build Setup
 

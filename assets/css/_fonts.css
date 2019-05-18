@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Bluu Suuperstar';
+  src: url('~assets/fonts/subset-BluuSuuperstar-Medium.woff2') format('woff2'),
+      url('~assets/fonts/subset-BluuSuuperstar-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bluu Suuperstar';
+  src: url('~assets/fonts/subset-BluuSuuperstar-Regular.woff2') format('woff2'),
+      url('~assets/fonts/subset-BluuSuuperstar-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

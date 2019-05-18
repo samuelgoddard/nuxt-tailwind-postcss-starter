@@ -1,0 +1,12 @@
+@import "@/_fonts.css";
+
+@import "tailwindcss/base.css";
+@import "tailwindcss/components.css";
+
+@import '@/_headings.css';
+
+@import "tailwindcss/utilities.css";
+
+body {
+  @apply antialiased font-sans;
+}
